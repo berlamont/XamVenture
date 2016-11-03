@@ -1,7 +1,8 @@
 ﻿<Application
-    x:Class="XamVenture.WinPhone.App"
+    x:Class="XamVenture.UWP.App"
     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-    xmlns:local="using:XamVenture.WinPhone">
+    xmlns:local="using:XamVenture.UWP"
+    RequestedTheme="Light">
 
 </Application>
